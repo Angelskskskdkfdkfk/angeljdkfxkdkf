@@ -63,11 +63,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐌𝐚𝐠𝐨𝐁𝐨𝐭'
-global.author = '𝐌𝐚𝐠𝐨𝐁𝐨𝐭'
+global.packname = '𝐋𝐔𝐊𝐀𝐒 𝐄𝐋 𝐀𝐌𝐎'
+global.author = '𝐋𝐔𝐊𝐀𝐒 𝐄𝐋 𝐀𝐌𝐎'
 
-global.wm = '𝐌𝐚𝐠𝐨𝐁𝐨𝐭'
-global.igfg = '𝐌𝐚𝐠𝐨𝐁𝐨𝐭'
+global.wm = '𝐋𝐔𝐊𝐀𝐒 𝐄𝐋 𝐀𝐌𝐎'
+global.igfg = '𝐋𝐔𝐊𝐀𝐒 𝐄𝐋 𝐀𝐌𝐎'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')

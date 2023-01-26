@@ -19,8 +19,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Maguit022/botsito2023
-> cd botsito2023
+> git clone https://github.com/Maguit022/lukasbot22
+> cd lukasbot22
 > yarn install 
 > npm install
 > npm update
@@ -30,7 +30,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd botsito2023
+> cd lukasbot22
 > npm start
 ```
 

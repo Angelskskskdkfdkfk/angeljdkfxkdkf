@@ -5,7 +5,7 @@ import fs from 'fs'
 
 
 global.owner = [
-  ['51972005505', '𝐌𝐚𝐠𝐨𝐁𝐨𝐭', true],
+  ['56961533807', '@s9_esport_off', true],
   ['51972005505', '@0_mago.ff', true],
 ] // Cambia los numeros que quieras
 global.mods = [] 
@@ -63,11 +63,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '𝐋𝐔𝐊𝐀𝐒 𝐄𝐋 𝐀𝐌𝐎'
-global.author = '𝐋𝐔𝐊𝐀𝐒 𝐄𝐋 𝐀𝐌𝐎'
+global.packname = '@s9_esport_off'
+global.author = '@s9_esport_off'
 
-global.wm = '𝐋𝐔𝐊𝐀𝐒 𝐄𝐋 𝐀𝐌𝐎'
-global.igfg = '𝐋𝐔𝐊𝐀𝐒 𝐄𝐋 𝐀𝐌𝐎'
+global.wm = '@s9_esport_off'
+global.igfg = '@s9_esport_off'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')

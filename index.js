@@ -17,7 +17,7 @@ say('Mago\nLUkas', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Bot creado por Mago. Dedicado para LUkas, si lees esto, te amo uwu`, {
+say(`@s9_esport_off`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
